@@ -1,10 +1,14 @@
+body {
+    font-size: 24px;
+    font-family: 'Work Sans', sans-serif;
+} 
 .container {
     position: absolute;
     top: 0;
     bottom: 0;
     right: 0;
     left: 0; 
-    background-image: url(../resources/larry-li-174055.jpg);
+    background-image: url(https://i.imgur.com/ZFT0iR1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     /* padding-bottom: 20%;
